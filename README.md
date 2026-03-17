@@ -1,5 +1,5 @@
 # 日语50音图演示
-
+demo展示：https://haullk.github.io/Japanese-Pronunciation-Version-of-the-Fifty-Sounds-Chart/
 本示例呈现一个平假名 + 片假名的 50 音图，点击任一字符即可通过浏览器的语音合成播报对应发音。
 
 ## 快速开始
